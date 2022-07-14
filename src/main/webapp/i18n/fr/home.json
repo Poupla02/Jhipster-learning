@@ -1,7 +1,7 @@
 {
   "home": {
-    "title": "Bienvenue, Java Hipster !",
-    "subtitle": "Ceci est votre page d'accueil",
+    "title": "Annick SOME",
+    "subtitle": "Ceci est mon blog personnel",
     "logged": {
       "message": "Vous êtes connecté en tant que \"{{username}}\"."
     },
